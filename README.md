@@ -70,7 +70,7 @@ I'm a passionate Backend Developer with expertise in creating robust and scalabl
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zufairaslam&show_icons=true&count_private=true&hide_title=true)
 
 ## 🌐 Fun Fact
 

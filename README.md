@@ -4,11 +4,12 @@ I'm a backend engineer specializing in building robust, scalable server‑side a
 
 ## 🔧 Tech Stack
 
-- **Languages:** Node.js (JavaScript/TypeScript), Java, PHP  
-- **Frameworks/Libraries:** Express.js, Next.js (API routes), Spring Boot  
-- 
-## 🚀 What I Work On
-
+- **Languages:** JavaScript/TypeScript (Node.js), Java, PHP, SQL
+- **Frameworks/Libraries:** Express.js, Next.js (API routes), Spring Boot
+- **Databases:** MongoDB (transactions), PostgreSQL, MySQL
+- **Caching & Messaging:** Redis (Redlock, rate limiter), In-memory caching
+- **DevOps & Tools:** Docker, Linux, CI/CD pipelines
+- **Observability:** Instrument services with OpenTelemetry for request counts, latencies and errors for better debugging and reliability.
 - **Concurrency & Consistency:** Implement distributed locks with Redis (Redlock) to prevent race conditions in critical workflows.  
 - **Custom Rate Limiting:** Develop Lua‑backed rate limiters in Redis with global, strict and burst windows for fair usage and abuse protection.  
 - **Caching & Performance:** Use in‑memory maps and Redis to cache hot, rarely‑changing data and reduce database load.  

@@ -1,24 +1,24 @@
-# Hi, I'm Zufair Aslam \U0001F44B
+# Hi, I'm Zufair Aslam 👋
 
 Welcome! I’m a **backend engineer** and system architect who thrives on building robust, scalable services across web, telecom and fintech domains. Over the last several years I’ve taken ideas from concept to production, designing systems that can handle high volumes, ensure security and deliver a smooth user experience.
 
-## 🚀 About Me
+## 🤠 About Me
 
 - **System design & problem solving:** I enjoy taking ambiguous requirements and turning them into reliable architectures. Whether it’s designing a one‑time password (OTP) system, a payment API, or a distributed admin panel, my focus is on concurrency, performance and fault tolerance.
 - **Observability & telemetry:** I integrate monitoring frameworks like SigNoz and OpenTelemetry to instrument services. By capturing traces, request counts, latencies and error rates, I enable data‑driven performance tuning and capacity planning.
-- **Payment & transaction flows:** I integrate third‑party payment providers with secure token management, checksum generation and scheduled token refreshes to protect against replay attacks and ensure reliable transactions【705686022084153†L10-L77】.
-- **Backend & microservices:** My backend work is primarily in Node.js/TypeScript using Express and Mongoose. I design REST APIs, implement role‑based access control, and incorporate caching and messaging (Redis, rate limiting) for resilience【667624075655411†L8-L36】.
-- **DevOps & infrastructure automation:** I automate deployments with shell scripts and configuration management. Tasks include installing dependencies, configuring Nginx reverse proxies with TLS, setting up load‑balancing across multiple Node.js services and automating certificate management【58459366863811†L54-L129】.
-- **Mobile & cross‑platform integrations:** I have experience integrating Android applications with custom C++ modules and bridging them to backend services, ensuring that mobile clients communicate securely and efficiently.
+- **Payment & transaction flows:** I integrate third‑party payment gateways with secure token management, checksum generation and scheduled token refreshes to protect against replay attacks and ensure reliable transactions【705686022084153†L10-L77】.
+- **Backend & microservices:** My backend work is primarily Node.js/TypeScript using Express and Mongoose. I design REST APIs, implement role‑based access control, and incorporate caching and messaging (Redis) and distributed locking with Redlock【667624075655411†L8-L36】.
+- **DevOps & infrastructure automation:** I write Bash and PowerShell scripts and configuration management. Tasks include installing dependencies, configuring Nginx reverse proxies with TLS, setting up load‑balancing across multiple Node.js services and automating certificate management【58459366863811†L54-L129】.
+- **Mobile & cross‑platform integrations:** I have experience developing Android applications with custom C++ modules and bridging them to backend services, ensuring that mobile clients communicate securely and efficiently.
 
-## 🛠️ Tech Stack
+## 🧐 Tech Stack
 
 - **Languages:** JavaScript/TypeScript (Node.js), Shell scripting, Python, Java/Kotlin (Android), C++
 - **Frameworks/Libraries:** Express.js, Mongoose, Material UI (for dashboards), Redux (state management)
 - **Databases & Messaging:** MongoDB, Redis, Mongoose ODM, Redlock for distributed locking
 - **DevOps & Tools:** Nginx, pm2, Docker, GitHub Actions, CI/CD pipelines, Cloudflare, Certbot
 
-## 🧠 How I Work
+## 🛠️ How I Work
 
 My approach combines thoughtful architecture with hands‑on implementation:
 
@@ -41,6 +41,5 @@ Feel free to get in touch if you’d like to collaborate or discuss an interesti
 
 ## 📬 Get in Touch
 
-- **Telegram:** t.me/zufairaslam_support
-- **Email:** zufairaslam@example.com
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/zufairaslam)
+- **Email:** zufairaslam03@gmail.com
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/zufairaslam/)

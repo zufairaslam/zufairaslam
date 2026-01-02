@@ -5,7 +5,7 @@ Welcome! I’m a full‑stack engineer and system architect who thrives on build
 ## 🚀 About Me
 
 - **System design & problem solving:** I enjoy taking ambiguous requirements and turning them into reliable architectures. Whether it’s designing a one‑time password (OTP) system, a payment API, or a distributed admin panel, my focus is on concurrency, performance and fault tolerance.
-- **Telecom & authentication expertise:** I’ve built high‑availability SMS/OTP services and membership gating solutions that handle thousands of concurrent users. These systems enforce rate limits, implement distributed locks to avoid race conditions, and maintain strong data consistency.
+- **Observability & telemetry:** I integrate monitoring frameworks like SigNoz and OpenTelemetry to instrument services. By capturing traces, request counts, latencies and error rates, I enable data‑driven performance tuning and capacity planning.
 - **Payment & transaction flows:** I integrate third‑party payment providers with secure token management, checksum generation and scheduled token refreshes to protect against replay attacks and ensure reliable transactions.
 - **Backend & microservices:** My backend work is primarily in Node.js/TypeScript using Express and Mongoose. I design REST APIs, implement role‑based access control, and incorporate caching and messaging (Redis, rate limiting) for resilience.
 - **DevOps & infrastructure automation:** I automate deployments with shell scripts and configuration management. Tasks include installing dependencies, configuring Nginx reverse proxies with TLS, setting up load‑balancing across multiple Node.js services and automating certificate management.

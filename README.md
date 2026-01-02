@@ -1,79 +1,26 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Zufair Aslam 👋
 
-I'm a passionate Backend Developer with expertise in creating robust and scalable server-side applications. With a strong background in various backend technologies and frameworks, I enjoy solving complex problems and optimizing performance.
+I'm a backend engineer specializing in building robust, scalable server‑side applications and APIs. Over the last 5+ years I've taken products from simple prototypes to production‑grade systems, designing for concurrency, reliability, and performance.
 
-## 🌟 Skills
+## 🔧 Tech Stack
 
-- **Programming Languages**:
-  - JavaScript (Node.js) 💻
-  - Python 🐍
-  - Java ☕
-  - TypeScript 📜
+- **Languages:** Node.js (JavaScript/TypeScript), Java, PHP  
+- **Frameworks/Libraries:** Express.js, Next.js (API routes), Spring Boot  
+- **Databases:** MongoDB (multi‑document transactions), MySQL, PostgreSQL  
+- **Caching & Messaging:** Redis (distributed locks, custom Lua rate limiting, caching)  
+- **DevOps:** Docker, CI/CD, Linux server administration  
+- **Observability:** OpenTelemetry instrumentation for tracing, metrics, and logs  
 
-- **Frameworks and Libraries**:
-  - Express.js 🚀
-  - NestJS 🏰
-  - Django 🦄
-  - Spring Boot 🌱
+## 🚀 What I Work On
 
-- **Databases**:
-  - MongoDB 🗃️
-  - PostgreSQL 🐘
-  - MySQL 🐬
-  - Redis 🔥
+- **Concurrency & Consistency:** Implement distributed locks with Redis (Redlock) to prevent race conditions in critical workflows.  
+- **Custom Rate Limiting:** Develop Lua‑backed rate limiters in Redis with global, strict and burst windows for fair usage and abuse protection.  
+- **Caching & Performance:** Use in‑memory maps and Redis to cache hot, rarely‑changing data and reduce database load.  
+- **Reliable Transactions:** Design operations around MongoDB transactions to guarantee consistency across multiple documents.  
+- **Observability:** Instrument services with OpenTelemetry to monitor request counts, latencies and errors for better debugging and reliability.  
 
-- **APIs and Integrations**:
-  - RESTful APIs 🔗
-  - GraphQL 📊
-  - OAuth2 🔐
-  - Webhooks 🌐
+I'm passionate about learning new technologies, sharing knowledge, and building systems that scale. I'm currently open to backend engineering roles in Riyadh and excited to collaborate on interesting projects.
 
-- **DevOps and CI/CD**:
-  - Docker 🐳
-  - Kubernetes ☸️
-  - Jenkins 🛠️
-  - GitHub Actions 🎯
+## 📲 How to reach me
 
-- **Other Technologies**:
-  - RabbitMQ 🐇
-  - Redis 🔄
-  - Elasticsearch 🔍
-  - AWS (S3, Lambda, DynamoDB) ☁️
-
-## 🚀 Projects
-
-- **[Project 1](link)** - A brief description of the project, technologies used, and your role in it. ![Project 1 Logo](https://via.placeholder.com/100x100?text=Logo)
-- **[Project 2](link)** - A brief description of the project, technologies used, and your role in it. ![Project 2 Logo](https://via.placeholder.com/100x100?text=Logo)
-- **[Project 3](link)** - A brief description of the project, technologies used, and your role in it. ![Project 3 Logo](https://via.placeholder.com/100x100?text=Logo)
-
-## 🏆 Experience
-
-- **[Job Title](company-link)** at [Company Name](company-link)  
-  _Month Year – Present_  
-  Brief description of your role and key achievements. 🌟
-
-- **[Job Title](company-link)** at [Company Name](company-link)  
-  _Month Year – Month Year_  
-  Brief description of your role and key achievements. 🏅
-
-## 🎓 Education
-
-- **[Degree](institution-link)**  
-  [Institution Name](institution-link)  
-  _Month Year – Month Year_
-
-## 📫 Contact
-
-- **LinkedIn**: [Your LinkedIn Profile](link) 💼
-- **Twitter**: [Your Twitter Handle](link) 🐦
-- **Email**: [your-email@example.com](mailto:your-email@example.com) 📧
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zufairaslam&show_icons=true&count_private=true&hide_title=true)
-
-## 🌐 Fun Fact
-
-- I love contributing to open source projects and learning new technologies! 🤓
-
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate. 🤝
+- [LinkedIn](https://www.linkedin.com/in/zufairaslam/)
